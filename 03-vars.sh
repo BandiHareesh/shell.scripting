@@ -15,3 +15,4 @@ echo Welcome, Today date is $DATE
 
 echo COURSE NAME = ${COURSE_NAME}
 COURSE_NAME=DevOps
+echo $COURSE_NAME
