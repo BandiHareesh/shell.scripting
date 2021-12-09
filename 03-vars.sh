@@ -14,7 +14,7 @@ DATE=$(date +%F)
 echo Welcome, Today date is $DATE
 
 echo COURSE NAME = ${COURSE_NAME}
-COURSE_NAME=DevOps     ##NO OUTPUT
+COURSE_NAME=DevOps
 
 
 export COURSE_NAME
