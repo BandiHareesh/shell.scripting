@@ -13,4 +13,5 @@ echo $1
 echo $*
 echo $@
 
-## Numbe
+## Number of values parsed is $#
+echo $#
